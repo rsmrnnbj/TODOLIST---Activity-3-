@@ -3,3 +3,5 @@ uvicorn
 sqlmodel
 httpx
 pytest
+
+ako pinoy
